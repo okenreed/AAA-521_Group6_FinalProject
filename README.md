@@ -12,3 +12,6 @@ Introduction to Computer Vision (AAI-521-02) Group 6 Final Project Repository
       - contribute to project proposal (tomorrow) [Adam/Christi]
       - approve attaching Adam's IOT project to the proposal for prof reference [Adam]
       - submit project proposal on behalf of team by tomorrow evening [Christi]
+## Project Assignment 4.2 submission
+- Submitted 11/20/23
+- Christi set meeting #3 for 11/22/23 @ 6:00 PM
