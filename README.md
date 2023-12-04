@@ -26,6 +26,7 @@ Introduction to Computer Vision (AAI-521-02) Group 6 Final Project Repository
 - Still need to review issue with identifying the confidence scores on people that no tranction was identified
 - Once design for camera use is completed the code will follow
 - Initial IoT design is in place, based on Camera, Lidar, Sound, and CO2 sensors.
+- Create and export Excel data file for using as a dataset for a monitoring system
 ## Documentation
 - Initial Project documentation is in place and shared
 ## Meeting 4
