@@ -28,3 +28,10 @@ Introduction to Computer Vision (AAI-521-02) Group 6 Final Project Repository
 - Initial IoT design is in place, based on Camera, Lidar, Sound, and CO2 sensors.
 ## Documentation
 - Initial Project documentation is in place and shared
+## Meeting 4
+- Review project documentation
+- Review code and question about:
+-   - Frame size
+    - Dynamic frame sizing
+- Update documentation with IoT design
+- Set meeting for 12/7/23 @ 5:00 PM
