@@ -11,6 +11,7 @@ Introduction to Computer Vision (AAI-521-02) Group 6 Final Project Repository
       - update ReadMe (tonight) [Christi]
       - contribute to project proposal (tomorrow) [Adam/Christi]
       - approve attaching Adam's IOT project to the proposal for prof reference [Adam]
+      - CV Coding [Adam]
       - submit project proposal on behalf of team by tomorrow evening [Christi]
 ## Project Assignment 4.2 submission
 - Submitted 11/20/23
@@ -36,3 +37,9 @@ Introduction to Computer Vision (AAI-521-02) Group 6 Final Project Repository
     - Dynamic frame sizing
 - Update documentation with IoT design
 - Set meeting for 12/7/23 @ 5:00 PM
+## Meeting 5
+- Christi presented the Slides (PP)
+- Dividing the presentations (C:1-3, A:4-6, R:7-9)
+- Reed to review the code Adam made and add general camera code
+- Christi to complete the Project documentation and review sections that Adam added
+- Set up meeting for 12/9/23 @ 5:00 PM
